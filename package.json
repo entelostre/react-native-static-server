@@ -1,12 +1,12 @@
 {
-  "name": "@dr.pogodin/react-native-static-server",
+  "name": "@entelostre/react-native-static-server",
   "version": "0.5.5",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/birdofpreyru/react-native-static-server.git",
-    "baseUrl": "https://github.com/birdofpreyru/react-native-static-server"
+    "url": "git+https://github.com/entelostre/react-native-static-server.git",
+    "baseUrl": "https://github.com/entelostre/react-native-static-server"
   },
-  "homepage": "https://github.com/birdofpreyru/react-native-static-server",
+  "homepage": "https://github.com/entelostre/react-native-static-server",
   "title": "React Native Static Server",
   "description": "HTTP static file server for React Native",
   "main": "index.js",
